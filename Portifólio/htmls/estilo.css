@@ -1,0 +1,76 @@
+#principal {
+    margin-top: 2%;
+    margin-left: 10%;
+    margin-right: 10%;
+    text-align: center;
+}
+#titulo {
+    font-size: 30px;
+    color: #ec577c;
+}
+.nav-link {
+    color: black;
+    text-transform: uppercase;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.nav-link:hover{
+    color: #ec577c;
+}
+.active {
+    color: #ec577c;
+}
+.active:visited {
+    color: #c44f4f;
+}
+#destaque{
+     min-height: 500px;
+     background: url("imagens/Untitled\ design.jpg");
+     background-size: cover;
+     padding-top: 80px;
+}
+.titulo{
+    background-color: white;
+    padding: 10px;
+    font-size: 1.5em;
+    
+}
+.subtitulo{
+    background-color:#ec577c;
+    color: white;
+    padding: 8px;
+    font-size: 1.3em;
+}
+.email{
+    background-color:#000000;
+    color: white;
+    padding: 8px;
+    font-size: 1.3em;
+
+}
+#rodape {
+    text-align: center;
+}
+#imagemSobre{
+    size-adjust: 30px;
+}
+#texto {
+    padding-top: 35px;
+}
+.flex {
+    display: flex;
+}
+
+.mg-top-30 {
+    margin-top: 30px;
+    text-align: center;
+}
+.contato {
+    size-adjust: 30px;
+    margin: 50%;
+    padding-top: 80px;
+    padding-left: 80px;
+}
+.escritos{
+    text-align: left;
+}
